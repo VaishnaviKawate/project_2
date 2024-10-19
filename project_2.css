@@ -6,7 +6,14 @@ body {
     align-items: center;
     height: 100vh;
 }
-
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f2f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
 .container {
     text-align: right;
 }
